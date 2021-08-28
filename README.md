@@ -16,8 +16,6 @@
 
 <br />
 ---
-<img align="left" alt="Lihoubrak's GitHub Stats" src="https://github-readme-stats.Lihoubrak.vercel.app/api?username=Lihoubrak&show_icons=true&hide_border=true" />
-
 ### Languages and Tools:
 
 [<img align="left" alt="C programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cprogramming]
