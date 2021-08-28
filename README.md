@@ -24,12 +24,8 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
-- [ការតម្លើង Ram Computer](https://www.youtube.com/watch?v=xDyZZdZhGLE&t=6s)
-- [ការតម្លើង Visual Studio code in Window 10](https://www.youtube.com/watch?v=VywBpKHEmrs)
-- [Algorithm & Flowchat](https://www.youtube.com/watch?v=ylAFkj-sBsc)
-➡️ [more videos...](https://www.youtube.com/channel/UCNOgD5FcsMrtI48HFBLNFxg/videos)
+<!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/channel/UCNOgD5FcsMrtI48HFBLNFxg
 [instagram]:https://www.instagram.com/leeminhou20/
