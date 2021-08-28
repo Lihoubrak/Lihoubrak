@@ -25,11 +25,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-- [The Origins of React // Jenn Creighton React Advanced London Interview](https://www.youtube.com/watch?v=lIJHjamOPfM)
-- [AIs Building Websites 🤖, Aliens Killing UIs 👽, & Ecommerce with Jamstack 🛒 // STACKr News Weekly](https://www.youtube.com/watch?v=Q7-f99kYr60)
-- [⭐ BONUS: STACKr News Shorts - How To Accept Payments With Stripe](https://www.youtube.com/watch?v=dOnI3CtvFD4)
+- [How to find Integral in Wolfram alpha on phone](https://www.youtube.com/watch?v=eYMyEL22jGk)
+- [How to find Limit in Wolfram alpha on phone](https://www.youtube.com/watch?v=AC4RD2G_jx0)
+- [អនុមាណរួម](https://www.youtube.com/watch?v=veK9WZLJAa4)
+- [Algorithm Flowchart in C Programming](https://www.youtube.com/watch?v=ylAFkj-sBsc)
+- [តក្តវិទ្យា](https://www.youtube.com/watch?v=H3Y2mzK-9gw)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/channel/UCNOgD5FcsMrtI48HFBLNFxg
