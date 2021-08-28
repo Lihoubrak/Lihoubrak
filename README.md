@@ -16,7 +16,7 @@
 
 <br />
 ---
-<img align="left" alt="lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihoubrak&show_icons=true&hide_border=true" />
+<img align="left" alt="Lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackrLihoubrak.vercel.app/api?username=Lihoubrak&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
 
