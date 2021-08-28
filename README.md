@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C programming" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw2SNf6KFDvmXFCjDUW9yFLv&ust=1630239098015000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND98IXY0_ICFQAAAAAdAAAAABAD" />][cprogramming]
+[<img align="left" alt="C programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][cprogramming]
 
 <br />
 <br />
