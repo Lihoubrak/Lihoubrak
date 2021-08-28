@@ -32,11 +32,10 @@
 - [Algorithm Flowchart in C Programming](https://www.youtube.com/watch?v=ylAFkj-sBsc)
 - [តក្តវិទ្យា](https://www.youtube.com/watch?v=H3Y2mzK-9gw)
 <!-- YOUTUBE:END -->
----
-<img align="left" alt="lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihoubrak&show_icons=true&hide_border=true" />
 [youtube]: https://www.youtube.com/channel/UCNOgD5FcsMrtI48HFBLNFxg
 [instagram]:https://www.instagram.com/leeminhou20/
 [Twitter]:https://twitter.com/LihouBrak1
 [linkedin]: https://www.linkedin.com/in/lihou-brak-26b030207
 [cprogramming]: https://github.com/Lihoubrak/C-programming
+<img align="left" alt="lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihoubrak&show_icons=true&hide_border=true" />
 © 2021 GitHub, Inc.
