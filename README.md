@@ -32,6 +32,9 @@
 - [Algorithm Flowchart in C Programming](https://www.youtube.com/watch?v=ylAFkj-sBsc)
 - [តក្តវិទ្យា](https://www.youtube.com/watch?v=H3Y2mzK-9gw)
 <!-- YOUTUBE:END -->
+  <img align="left" alt="Lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Lihoubrak_icons=true&hide_border=true" />
+
+</details>
 [youtube]: https://www.youtube.com/channel/UCNOgD5FcsMrtI48HFBLNFxg
 [instagram]:https://www.instagram.com/leeminhou20/
 [Twitter]:https://twitter.com/LihouBrak1
