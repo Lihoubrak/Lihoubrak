@@ -15,6 +15,8 @@
 [<img align="left" alt="Leeminhou20 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+---
+<img align="left" alt="lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihoubrak&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
 
@@ -23,7 +25,6 @@
 <br />
 <br />
 ---
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [How to find Integral in Wolfram alpha on phone](https://www.youtube.com/watch?v=eYMyEL22jGk)
@@ -37,5 +38,4 @@
 [Twitter]:https://twitter.com/LihouBrak1
 [linkedin]: https://www.linkedin.com/in/lihou-brak-26b030207
 [cprogramming]: https://github.com/Lihoubrak/C-programming
-<img align="left" alt="lihoubrak's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lihoubrak&show_icons=true&hide_border=true" />
 © 2021 GitHub, Inc.
