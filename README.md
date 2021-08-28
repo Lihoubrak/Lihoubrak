@@ -1,11 +1,11 @@
 ### Hi there, I'm Lihou 👋
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Friend, Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 ចូលមើលរបស់គេហើយកុំភ្លេច Follow ផង🤣 
+- 🌱 ខ្ញុំទេីបតែចាប់ផ្តើមរៀនទេ គ្នានចេះអីទេ🤣
+- 👯 ខ្ញុំជាសិស្សម្នាក់ដែលខ្ជឹលរៀនណាស់🤣
+- 🥅 គោលបំណង: Android Application Developer
+- ⚡ ចំណង់ចំណូលចិត្ត:លេងកីឡា ស្រាវជ្រាវអ្វីដែលថ្មីទាក់ទង់បច្ចេកវិទ្យា ស្តាប់បទចម្រៀង 
 
 ### Connect with me:
 
